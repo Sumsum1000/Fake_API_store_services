@@ -1,0 +1,17 @@
+{
+  "name": "Store_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "load-json-file": "^6.2.0",
+    "nodemon": "^2.0.11"
+  }
+}
